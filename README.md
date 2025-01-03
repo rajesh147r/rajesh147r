@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 you can reach me through rajeshuda147r@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You are luckey if you see me active here
 
 <!---
 rajesh147r/rajesh147r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
